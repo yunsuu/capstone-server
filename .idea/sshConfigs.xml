@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="52.78.126.183" id="c00ec013-5193-48cc-8f23-7d33092ab7a0" keyPath="C:\Users\user\Documents\카카오톡 받은 파일\capstone.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</project>
