@@ -1,0 +1,2459 @@
+[
+  {
+    "adtfrdd": 20200520,
+    "hosptytpcd": "B",
+    "sggunm": "진천군",
+    "sidonm": "충북",
+    "spcladmtycd": "A0",
+    "telno": "043-533-1711",
+    "yadmnm": "의료법인 건명의료재단 진천성모병원"
+  },
+  {
+    "adtfrdd": 20200511,
+    "hosptytpcd": "A",
+    "sggunm": "수원시 권선구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-278-0119",
+    "yadmnm": "의료법인 명인의료재단 화홍병원"
+  },
+  {
+    "adtfrdd": 20200514,
+    "hosptytpcd": "B",
+    "sggunm": "청주시 서원구",
+    "sidonm": "충북",
+    "spcladmtycd": "A0",
+    "telno": "043-279-2300",
+    "yadmnm": "충청북도 청주의료원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "춘천시",
+    "sidonm": "강원",
+    "spcladmtycd": "A0",
+    "telno": "033-258-2000",
+    "yadmnm": "강원대학교병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "여수시",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-690-6000",
+    "yadmnm": "여천전남병원"
+  },
+  {
+    "adtfrdd": 20200306,
+    "hosptytpcd": "B",
+    "sggunm": "서구",
+    "sidonm": "대전",
+    "spcladmtycd": "A0",
+    "telno": "042-600-9999",
+    "yadmnm": "학교법인 건양교육재단 건양대학교병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "B",
+    "sggunm": "용인시 기흥구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-300-0114",
+    "yadmnm": "강남병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "파주시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-9431-1912",
+    "yadmnm": "메디인병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "구리시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "-1644-9118",
+    "yadmnm": "한양대학교구리병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "고양시 덕양구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-810-5114",
+    "yadmnm": "의료법인명지의료재단명지병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "용인시 처인구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-8021-2000",
+    "yadmnm": "(의)영문의료재단 다보스병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "남양주시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-574-9118",
+    "yadmnm": "현대병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "부천시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "032-340-1114",
+    "yadmnm": "부천세종병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "화성시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-8077-7200",
+    "yadmnm": "의료법인 원광의료재단 원광종합병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "안성시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-675-6007",
+    "yadmnm": "안성성모병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "시흥시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "-1811-7000",
+    "yadmnm": "의료법인 남촌의료재단 시화병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "김포시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-999-1000",
+    "yadmnm": "의료법인우리의료재단김포우리병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "고양시 일산서구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-910-7114",
+    "yadmnm": "인제대학교일산백병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "화성시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "-1600-5982",
+    "yadmnm": "화성디에스병원"
+  },
+  {
+    "adtfrdd": 20200309,
+    "hosptytpcd": "B",
+    "sggunm": "수원시 팔달구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-1577-8588",
+    "yadmnm": "가톨릭대학교 성빈센트병원"
+  },
+  {
+    "adtfrdd": 20200309,
+    "hosptytpcd": "A",
+    "sggunm": "강동구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2224-2114",
+    "yadmnm": "성심의료재단강동성심병원"
+  },
+  {
+    "adtfrdd": 20200309,
+    "hosptytpcd": "B",
+    "sggunm": "광진구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "-1588-1533",
+    "yadmnm": "건국대학교병원"
+  },
+  {
+    "adtfrdd": 20200309,
+    "hosptytpcd": "B",
+    "sggunm": "여주시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-880-7700",
+    "yadmnm": "세종여주병원"
+  },
+  {
+    "adtfrdd": 20200305,
+    "hosptytpcd": "A",
+    "sggunm": "남구",
+    "sidonm": "울산",
+    "spcladmtycd": "A0",
+    "telno": "052-220-7500",
+    "yadmnm": "의료법인 은성의료재단 좋은삼정병원"
+  },
+  {
+    "adtfrdd": 20200306,
+    "hosptytpcd": "A",
+    "sggunm": "광명시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "02-2680-7114",
+    "yadmnm": "광명성애병원"
+  },
+  {
+    "adtfrdd": 20200309,
+    "hosptytpcd": "A",
+    "sggunm": "군포시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-390-2300",
+    "yadmnm": "원광대학교 산본병원"
+  },
+  {
+    "adtfrdd": 20200309,
+    "hosptytpcd": "A",
+    "sggunm": "청주시 청원구",
+    "sidonm": "충북",
+    "spcladmtycd": "A0",
+    "telno": "043-219-8000",
+    "yadmnm": "청주성모병원"
+  },
+  {
+    "adtfrdd": 20200304,
+    "hosptytpcd": "A",
+    "sggunm": "광진구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2049-9036",
+    "yadmnm": "혜민병원"
+  },
+  {
+    "adtfrdd": 20200304,
+    "hosptytpcd": "A",
+    "sggunm": "노원구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-970-2114",
+    "yadmnm": "한국원자력의학원원자력병원"
+  },
+  {
+    "adtfrdd": 20200304,
+    "hosptytpcd": "A",
+    "sggunm": "영등포구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-840-7114",
+    "yadmnm": "성애의료재단 성애병원"
+  },
+  {
+    "adtfrdd": 20200304,
+    "hosptytpcd": "A",
+    "sggunm": "서구",
+    "sidonm": "광주",
+    "spcladmtycd": "A0",
+    "telno": "062-600-8000",
+    "yadmnm": "서광병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "B",
+    "sggunm": "부천시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "032-621-5114",
+    "yadmnm": "순천향대학교부속부천병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "B",
+    "sggunm": "김포시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-998-8129",
+    "yadmnm": "의료법인인봉의료재단뉴고려병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "B",
+    "sggunm": "화성시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-8086-3000",
+    "yadmnm": "한림대학교동탄성심병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "B",
+    "sggunm": "고양시 일산동구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-1577-7000",
+    "yadmnm": "동국대학교일산불교병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "평택시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-5182-7700",
+    "yadmnm": "의료법인백송의료재단 굿모닝병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "B",
+    "sggunm": "부천시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "032-1577-0675",
+    "yadmnm": "가톨릭대학교부천성모병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "수원시 영통구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-219-5114",
+    "yadmnm": "아주대학교병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "창원시 진해구",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-548-7700",
+    "yadmnm": "연세에스병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "창원시 마산회원구",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-230-1500",
+    "yadmnm": "의료법인청아의료재단청아병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "양산시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-360-1000",
+    "yadmnm": "양산부산대학교병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "창원시 마산합포구",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-243-0100",
+    "yadmnm": "의료법인합포의료재단에스엠지연세병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "A",
+    "sggunm": "진주시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-751-2500",
+    "yadmnm": "진주고려병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "안동시",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-850-8114",
+    "yadmnm": "안동성소병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "A",
+    "sggunm": "경주시",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-748-9300",
+    "yadmnm": "동국대학교의과대학경주병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "B",
+    "sggunm": "중구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-890-2114",
+    "yadmnm": "인하대학교의과대학부속병원"
+  },
+  {
+    "adtfrdd": 20200309,
+    "hosptytpcd": "B",
+    "sggunm": "영등포구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "-1661-7575",
+    "yadmnm": "가톨릭대학교 여의도성모병원"
+  },
+  {
+    "adtfrdd": 20200310,
+    "hosptytpcd": "A",
+    "sggunm": "광산구",
+    "sidonm": "광주",
+    "spcladmtycd": "A0",
+    "telno": "062-975-9000",
+    "yadmnm": "KS병원"
+  },
+  {
+    "adtfrdd": 20200310,
+    "hosptytpcd": "A",
+    "sggunm": "여수시",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-640-7128",
+    "yadmnm": "여수전남병원"
+  },
+  {
+    "adtfrdd": 20200514,
+    "hosptytpcd": "A",
+    "sggunm": "상주시",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-534-3501",
+    "yadmnm": "상주적십자병원"
+  },
+  {
+    "adtfrdd": 20200803,
+    "hosptytpcd": "A",
+    "sggunm": "전주시 덕진구",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-250-1114",
+    "yadmnm": "전북대학교병원"
+  },
+  {
+    "adtfrdd": 20200307,
+    "hosptytpcd": "A",
+    "sggunm": "광산구",
+    "sidonm": "광주",
+    "spcladmtycd": "A0",
+    "telno": "062-601-8000",
+    "yadmnm": "첨단종합병원"
+  },
+  {
+    "adtfrdd": 20200312,
+    "hosptytpcd": "B",
+    "sggunm": "강릉시",
+    "sidonm": "강원",
+    "spcladmtycd": "A0",
+    "telno": "033-610-3114",
+    "yadmnm": "강릉아산병원"
+  },
+  {
+    "adtfrdd": 20200306,
+    "hosptytpcd": "A",
+    "sggunm": "전주시 완산구",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-220-7200",
+    "yadmnm": "의료법인영경의료재단전주병원"
+  },
+  {
+    "adtfrdd": 20200305,
+    "hosptytpcd": "B",
+    "sggunm": "구미시",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-468-9114",
+    "yadmnm": "순천향대학교 부속 구미병원"
+  },
+  {
+    "adtfrdd": 20200306,
+    "hosptytpcd": "B",
+    "sggunm": "포항시 남구",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-275-0005",
+    "yadmnm": "의료법인한성재단포항세명기독병원"
+  },
+  {
+    "adtfrdd": 20200311,
+    "hosptytpcd": "B",
+    "sggunm": "서구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-1600-8291",
+    "yadmnm": "가톨릭관동대학교 국제성모병원"
+  },
+  {
+    "adtfrdd": 20200316,
+    "hosptytpcd": "B",
+    "sggunm": "고흥군",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-840-1200",
+    "yadmnm": "의료법인장호의료재단 녹동현대병원"
+  },
+  {
+    "adtfrdd": 20200713,
+    "hosptytpcd": "A",
+    "sggunm": "안양시 동안구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-380-1500",
+    "yadmnm": "한림대학교성심병원"
+  },
+  {
+    "adtfrdd": 20200317,
+    "hosptytpcd": "A",
+    "sggunm": "동구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-580-6000",
+    "yadmnm": "인천광역시의료원"
+  },
+  {
+    "adtfrdd": 20200316,
+    "hosptytpcd": "B",
+    "sggunm": "은평구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-1811-7755",
+    "yadmnm": "가톨릭대학교 은평성모병원"
+  },
+  {
+    "adtfrdd": 20200323,
+    "hosptytpcd": "B",
+    "sggunm": "용인시 기흥구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "-1899-1004",
+    "yadmnm": "연세대학교 의과대학 용인세브란스병원"
+  },
+  {
+    "adtfrdd": 20200423,
+    "hosptytpcd": "A",
+    "sggunm": "연수구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-899-9999",
+    "yadmnm": "(의)나사렛의료재단 나사렛국제병원"
+  },
+  {
+    "adtfrdd": 20200413,
+    "hosptytpcd": "A",
+    "sggunm": "천안시 동남구",
+    "sidonm": "충남",
+    "spcladmtycd": "A0",
+    "telno": "041-590-9000",
+    "yadmnm": "천안우리병원"
+  },
+  {
+    "adtfrdd": 20200416,
+    "hosptytpcd": "A",
+    "sggunm": "성남시 중원구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-743-3000",
+    "yadmnm": "성남중앙병원"
+  },
+  {
+    "adtfrdd": 20200417,
+    "hosptytpcd": "A",
+    "sggunm": "구리시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-550-1111",
+    "yadmnm": "재단법인원진녹색병원"
+  },
+  {
+    "adtfrdd": 20200313,
+    "hosptytpcd": "A",
+    "sggunm": "송파구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-3400-1114",
+    "yadmnm": "경찰병원"
+  },
+  {
+    "adtfrdd": 20200303,
+    "hosptytpcd": "A",
+    "sggunm": "서구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-567-6200",
+    "yadmnm": "온누리병원"
+  },
+  {
+    "adtfrdd": 20200303,
+    "hosptytpcd": "B",
+    "sggunm": "의정부시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "-1661-7500",
+    "yadmnm": "가톨릭대학교의정부성모병원"
+  },
+  {
+    "adtfrdd": 20200305,
+    "hosptytpcd": "A",
+    "sggunm": "의정부시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-856-8111",
+    "yadmnm": "의료법인 영동의료재단 의정부백병원"
+  },
+  {
+    "adtfrdd": 20200303,
+    "hosptytpcd": "A",
+    "sggunm": "여수시",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-653-2000",
+    "yadmnm": "여수한국병원"
+  },
+  {
+    "adtfrdd": 20200303,
+    "hosptytpcd": "A",
+    "sggunm": "거제시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-731-1240",
+    "yadmnm": "의료법인 성념의료재단맑은샘병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "B",
+    "sggunm": "강남구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2019-3114",
+    "yadmnm": "연세대학교의과대학 강남세브란스병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "B",
+    "sggunm": "강동구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2225-1111",
+    "yadmnm": "한국보훈복지의료공단 중앙보훈병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "B",
+    "sggunm": "동작구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "-1800-1114",
+    "yadmnm": "중앙대학교병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "B",
+    "sggunm": "서대문구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2228-0114",
+    "yadmnm": "학교법인연세대학교의과대학세브란스병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "B",
+    "sggunm": "성북구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "-1577-0083",
+    "yadmnm": "학교법인 고려중앙학원 고려대학교의과대학부속병원(안암병원)"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "B",
+    "sggunm": "양천구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2650-5114",
+    "yadmnm": "이화여자대학교의과대학부속목동병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "B",
+    "sggunm": "용산구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-709-9114",
+    "yadmnm": "순천향대학교 부속 서울병원"
+  },
+  {
+    "adtfrdd": 20200305,
+    "hosptytpcd": "B",
+    "sggunm": "금천구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-804-0002",
+    "yadmnm": "희명병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "달서구",
+    "sidonm": "대구",
+    "spcladmtycd": "A0",
+    "telno": "053-560-9114",
+    "yadmnm": "의료법인구의료재단 구병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "A",
+    "sggunm": "중구",
+    "sidonm": "대구",
+    "spcladmtycd": "A0",
+    "telno": "053-200-5114",
+    "yadmnm": "경북대학교병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "A",
+    "sggunm": "시흥시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-310-6300",
+    "yadmnm": "의료법인 녹향의료재단 신천연합병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "A",
+    "sggunm": "춘천시",
+    "sidonm": "강원",
+    "spcladmtycd": "A0",
+    "telno": "033-240-5000",
+    "yadmnm": "한림대학교부속 춘천성심병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "김천시",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-420-9300",
+    "yadmnm": "의료법인덕산의료재단김천제일병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "A",
+    "sggunm": "문경시",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-550-7700",
+    "yadmnm": "의료법인동춘의료재단문경제일병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "A",
+    "sggunm": "안동시",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-840-1004",
+    "yadmnm": "의료법인안동병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "A",
+    "sggunm": "진주시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-750-7123",
+    "yadmnm": "제일병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "A",
+    "sggunm": "제주시",
+    "sidonm": "제주",
+    "spcladmtycd": "A0",
+    "telno": "064-786-7000",
+    "yadmnm": "의료법인 중앙의료재단 중앙병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "B",
+    "sggunm": "계양구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-540-9114",
+    "yadmnm": "한림병원"
+  },
+  {
+    "adtfrdd": 20200613,
+    "hosptytpcd": "A",
+    "sggunm": "화성시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-352-8114",
+    "yadmnm": "의료법인 은혜와감사의료재단 화성중앙종합병원"
+  },
+  {
+    "adtfrdd": 20200309,
+    "hosptytpcd": "A",
+    "sggunm": "동작구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-870-2114",
+    "yadmnm": "서울특별시보라매병원"
+  },
+  {
+    "adtfrdd": 20200316,
+    "hosptytpcd": "A",
+    "sggunm": "미추홀구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-457-2000",
+    "yadmnm": "의료법인 인천사랑병원"
+  },
+  {
+    "adtfrdd": 20200506,
+    "hosptytpcd": "A",
+    "sggunm": "관악구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-1877-8875",
+    "yadmnm": "에이치플러스 양지병원"
+  },
+  {
+    "adtfrdd": 20200801,
+    "hosptytpcd": "A",
+    "sggunm": "도봉구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-901-3114",
+    "yadmnm": "의료법인한전의료재단 한일병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "영등포구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-829-5114",
+    "yadmnm": "한림대학교 강남성심병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "동대문구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2244-0191",
+    "yadmnm": "삼육서울병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "동대문구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-958-8114",
+    "yadmnm": "경희대학교병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "성북구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-912-0100",
+    "yadmnm": "성북우리아이들병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "구로구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-858-0100",
+    "yadmnm": "의료법인 우리아이들 의료재단 우리아이들병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "중구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2270-0114",
+    "yadmnm": "인제대학교 서울백병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "B",
+    "sggunm": "성동구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2290-8114",
+    "yadmnm": "한양대학교병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "A",
+    "sggunm": "노원구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-950-1114",
+    "yadmnm": "인제대학교 상계백병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "A",
+    "sggunm": "서대문구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-396-9161",
+    "yadmnm": "의료법인동신의료재단 동신병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "종로구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "-1588-5700",
+    "yadmnm": "서울대학교병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "A",
+    "sggunm": "노원구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-970-8000",
+    "yadmnm": "노원을지대학교병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "강동구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-440-7114",
+    "yadmnm": "강동경희대학교의대병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "중랑구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-437-5011",
+    "yadmnm": "의료법인풍산의료재단동부제일병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "A",
+    "sggunm": "울주군",
+    "sidonm": "울산",
+    "spcladmtycd": "A0",
+    "telno": "052-255-7114",
+    "yadmnm": "서울산보람병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "B",
+    "sggunm": "제주시",
+    "sidonm": "제주",
+    "spcladmtycd": "A0",
+    "telno": "064-717-1114",
+    "yadmnm": "제주대학교병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "논산시",
+    "sidonm": "충남",
+    "spcladmtycd": "A0",
+    "telno": "041-733-2191",
+    "yadmnm": "의료법인 백제병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "천안시 서북구",
+    "sidonm": "충남",
+    "spcladmtycd": "A0",
+    "telno": "041-570-7555",
+    "yadmnm": "의료법인 영서의료재단 천안충무병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "서산시",
+    "sidonm": "충남",
+    "spcladmtycd": "A0",
+    "telno": "041-661-1000",
+    "yadmnm": "서산중앙병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "천안시 동남구",
+    "sidonm": "충남",
+    "spcladmtycd": "A0",
+    "telno": "041-570-2114",
+    "yadmnm": "순천향대학교부속 천안병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "청주시 상당구",
+    "sidonm": "충북",
+    "spcladmtycd": "A0",
+    "telno": "043-222-7000",
+    "yadmnm": "의료법인 인화재단 한국병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "A",
+    "sggunm": "충주시",
+    "sidonm": "충북",
+    "spcladmtycd": "A0",
+    "telno": "043-840-8200",
+    "yadmnm": "건국대학교 충주병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "A",
+    "sggunm": "청주시 흥덕구",
+    "sidonm": "충북",
+    "spcladmtycd": "A0",
+    "telno": "043-230-6114",
+    "yadmnm": "의료법인한마음의료재단하나병원"
+  },
+  {
+    "adtfrdd": 20200228,
+    "hosptytpcd": "A",
+    "sggunm": "제천시",
+    "sidonm": "충북",
+    "spcladmtycd": "A0",
+    "telno": "043-642-7606",
+    "yadmnm": "의료법인 자산의료재단 제천서울병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "제천시",
+    "sidonm": "충북",
+    "spcladmtycd": "A0",
+    "telno": "043-640-8114",
+    "yadmnm": "의료법인명지의료재단명지병원"
+  },
+  {
+    "adtfrdd": 20200313,
+    "hosptytpcd": "A",
+    "sggunm": "강화군",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-290-0001",
+    "yadmnm": "비에스종합병원"
+  },
+  {
+    "adtfrdd": 20200806,
+    "hosptytpcd": "A",
+    "sggunm": "안성시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-8046-5000",
+    "yadmnm": "경기도의료원 안성병원"
+  },
+  {
+    "adtfrdd": 20200304,
+    "hosptytpcd": "B",
+    "sggunm": "평택시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-666-2600",
+    "yadmnm": "의료법인 갈렌의료재단 박병원"
+  },
+  {
+    "adtfrdd": 20200304,
+    "hosptytpcd": "A",
+    "sggunm": "군산시",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-472-5000",
+    "yadmnm": "전라북도 군산의료원"
+  },
+  {
+    "adtfrdd": 20200304,
+    "hosptytpcd": "A",
+    "sggunm": "상주시",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-532-5001",
+    "yadmnm": "의료법인삼백의료재단상주성모병원"
+  },
+  {
+    "adtfrdd": 20200305,
+    "hosptytpcd": "A",
+    "sggunm": "거제시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-733-0000",
+    "yadmnm": "의료법인 거붕 백병원"
+  },
+  {
+    "adtfrdd": 20200305,
+    "hosptytpcd": "A",
+    "sggunm": "안산시 상록구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-500-1114",
+    "yadmnm": "근로복지공단안산병원"
+  },
+  {
+    "adtfrdd": 20200305,
+    "hosptytpcd": "A",
+    "sggunm": "목포시",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-260-6500",
+    "yadmnm": "목포시의료원"
+  },
+  {
+    "adtfrdd": 20200305,
+    "hosptytpcd": "A",
+    "sggunm": "구미시",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-450-9700",
+    "yadmnm": "차의과학대학교부속구미차병원"
+  },
+  {
+    "adtfrdd": 20200901,
+    "hosptytpcd": "A",
+    "sggunm": "안산시 단원구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-8040-6600",
+    "yadmnm": "의료법인 플러스의료재단 단원병원"
+  },
+  {
+    "adtfrdd": 20200514,
+    "hosptytpcd": "A",
+    "sggunm": "천안시 동남구",
+    "sidonm": "충남",
+    "spcladmtycd": "A0",
+    "telno": "041-570-7200",
+    "yadmnm": "충청남도 천안의료원"
+  },
+  {
+    "adtfrdd": 20200401,
+    "hosptytpcd": "A",
+    "sggunm": "안양시 만안구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-467-9717",
+    "yadmnm": "효산의료재단 안양샘병원"
+  },
+  {
+    "adtfrdd": 20200519,
+    "hosptytpcd": "A",
+    "sggunm": "영주시",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-630-0100",
+    "yadmnm": "영주적십자병원"
+  },
+  {
+    "adtfrdd": 20200403,
+    "hosptytpcd": "A",
+    "sggunm": "중구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2260-7114",
+    "yadmnm": "국립중앙의료원"
+  },
+  {
+    "adtfrdd": 20200304,
+    "hosptytpcd": "A",
+    "sggunm": "양천구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2604-7551",
+    "yadmnm": "메디힐병원"
+  },
+  {
+    "adtfrdd": 20200304,
+    "hosptytpcd": "B",
+    "sggunm": "서초구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-1588-1511",
+    "yadmnm": "학교법인가톨릭학원가톨릭대학교서울성모병원"
+  },
+  {
+    "adtfrdd": 20200303,
+    "hosptytpcd": "A",
+    "sggunm": "종로구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-737-0181",
+    "yadmnm": "세란병원"
+  },
+  {
+    "adtfrdd": 20200303,
+    "hosptytpcd": "A",
+    "sggunm": "기장군",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-723-0171",
+    "yadmnm": "(의)서일의료재단기장병원"
+  },
+  {
+    "adtfrdd": 20200303,
+    "hosptytpcd": "A",
+    "sggunm": "동구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-664-4000",
+    "yadmnm": "의료법인정화의료재단 김원묵기념봉생병원"
+  },
+  {
+    "adtfrdd": 20200616,
+    "hosptytpcd": "A",
+    "sggunm": "원주시",
+    "sidonm": "강원",
+    "spcladmtycd": "A0",
+    "telno": "033-760-4605",
+    "yadmnm": "강원도 원주의료원"
+  },
+  {
+    "adtfrdd": 20200603,
+    "hosptytpcd": "A",
+    "sggunm": "성남시 수정구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-757-8900",
+    "yadmnm": "순천의료재단 정병원"
+  },
+  {
+    "adtfrdd": 20200601,
+    "hosptytpcd": "A",
+    "sggunm": "오산시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-379-8300",
+    "yadmnm": "오산한국병원"
+  },
+  {
+    "adtfrdd": 20200608,
+    "hosptytpcd": "A",
+    "sggunm": "남구",
+    "sidonm": "대구",
+    "spcladmtycd": "A0",
+    "telno": "053-640-8800",
+    "yadmnm": "드림종합병원"
+  },
+  {
+    "adtfrdd": 20200409,
+    "hosptytpcd": "A",
+    "sggunm": "삼척시",
+    "sidonm": "강원",
+    "spcladmtycd": "A0",
+    "telno": "033-572-1141",
+    "yadmnm": "강원도 삼척의료원"
+  },
+  {
+    "adtfrdd": 20200310,
+    "hosptytpcd": "A",
+    "sggunm": "전주시 덕진구",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-240-8800",
+    "yadmnm": "의료법인영경의료재단호성전주병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "유성구",
+    "sidonm": "대전",
+    "spcladmtycd": "A0",
+    "telno": "042-609-1000",
+    "yadmnm": "의료법인영훈의료재단 유성선병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "B",
+    "sggunm": "중구",
+    "sidonm": "대전",
+    "spcladmtycd": "A0",
+    "telno": "042-220-9114",
+    "yadmnm": "학교법인가톨릭학원 가톨릭대학교 대전성모병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "B",
+    "sggunm": "서구",
+    "sidonm": "대전",
+    "spcladmtycd": "A0",
+    "telno": "042-611-3000",
+    "yadmnm": "학교법인 을지학원 대전을지대학교병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "연제구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-752-1990",
+    "yadmnm": "한양류마디병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "서구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "-242-9751",
+    "yadmnm": "삼육부산병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "사상구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-322-0900",
+    "yadmnm": "의료법인은성의료재단좋은삼선병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "영도구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-414-8101",
+    "yadmnm": "영도병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "서구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "-240-7000",
+    "yadmnm": "부산대학교병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "동구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-644-2002",
+    "yadmnm": "좋은문화병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "북구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-330-3000",
+    "yadmnm": "의료법인 인당의료재단 부민병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "수영구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-625-0900",
+    "yadmnm": "의료법인 은성의료재단 좋은강안병원"
+  },
+  {
+    "adtfrdd": 20200310,
+    "hosptytpcd": "B",
+    "sggunm": "남구",
+    "sidonm": "광주",
+    "spcladmtycd": "A0",
+    "telno": "062-650-5000",
+    "yadmnm": "광주기독병원"
+  },
+  {
+    "adtfrdd": 20200310,
+    "hosptytpcd": "B",
+    "sggunm": "목포시",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-280-3000",
+    "yadmnm": "의료법인목포구암의료재단 목포중앙병원"
+  },
+  {
+    "adtfrdd": 20200319,
+    "hosptytpcd": "B",
+    "sggunm": "남양주시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-510-0114",
+    "yadmnm": "남양주 한양병원"
+  },
+  {
+    "adtfrdd": 20200323,
+    "hosptytpcd": "B",
+    "sggunm": "달서구",
+    "sidonm": "대구",
+    "spcladmtycd": "A0",
+    "telno": "053-659-3100",
+    "yadmnm": "삼일병원"
+  },
+  {
+    "adtfrdd": 20200326,
+    "hosptytpcd": "A",
+    "sggunm": "전주시 덕진구",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-240-7300",
+    "yadmnm": "전주고려병원"
+  },
+  {
+    "adtfrdd": 20200407,
+    "hosptytpcd": "A",
+    "sggunm": "의정부시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-845-7777",
+    "yadmnm": "추병원"
+  },
+  {
+    "adtfrdd": 20200603,
+    "hosptytpcd": "B",
+    "sggunm": "김포시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "-1588-0223",
+    "yadmnm": "히즈메디병원"
+  },
+  {
+    "adtfrdd": 20200526,
+    "hosptytpcd": "A",
+    "sggunm": "북구",
+    "sidonm": "울산",
+    "spcladmtycd": "A0",
+    "telno": "052-290-2100",
+    "yadmnm": "울산엘리야병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "아산시",
+    "sidonm": "충남",
+    "spcladmtycd": "A0",
+    "telno": "041-536-6666",
+    "yadmnm": "아산충무병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "남구",
+    "sidonm": "대구",
+    "spcladmtycd": "A0",
+    "telno": "053-623-8001",
+    "yadmnm": "영남대학교병원"
+  },
+  {
+    "adtfrdd": 20200320,
+    "hosptytpcd": "A",
+    "sggunm": "익산시",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-840-9114",
+    "yadmnm": "익산병원"
+  },
+  {
+    "adtfrdd": 20200408,
+    "hosptytpcd": "A",
+    "sggunm": "창원시 의창구",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-225-0000",
+    "yadmnm": "창원한마음병원"
+  },
+  {
+    "adtfrdd": 20200602,
+    "hosptytpcd": "A",
+    "sggunm": "남동구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-722-8585",
+    "yadmnm": "국제바로병원"
+  },
+  {
+    "adtfrdd": 20200622,
+    "hosptytpcd": "A",
+    "sggunm": "동구",
+    "sidonm": "대구",
+    "spcladmtycd": "A0",
+    "telno": "053-1688-7770",
+    "yadmnm": "대구파티마병원"
+  },
+  {
+    "adtfrdd": 20200803,
+    "hosptytpcd": "A",
+    "sggunm": "창원시 성산구",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-214-2000",
+    "yadmnm": "창원경상국립대학교병원"
+  },
+  {
+    "adtfrdd": 20200319,
+    "hosptytpcd": "B",
+    "sggunm": "은평구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-350-3300",
+    "yadmnm": "의료법인 청구성심병원"
+  },
+  {
+    "adtfrdd": 20200309,
+    "hosptytpcd": "A",
+    "sggunm": "종로구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2002-8000",
+    "yadmnm": "서울적십자병원"
+  },
+  {
+    "adtfrdd": 20200311,
+    "hosptytpcd": "A",
+    "sggunm": "부천시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "032-672-4100",
+    "yadmnm": "부천우리병원"
+  },
+  {
+    "adtfrdd": 20200507,
+    "hosptytpcd": "B",
+    "sggunm": "성남시 분당구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-779-0114",
+    "yadmnm": "대진의료재단 분당제생병원"
+  },
+  {
+    "adtfrdd": 20200316,
+    "hosptytpcd": "A",
+    "sggunm": "동대문구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-966-1616",
+    "yadmnm": "서울성심병원"
+  },
+  {
+    "adtfrdd": 20200828,
+    "hosptytpcd": "A",
+    "sggunm": "서구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-590-0114",
+    "yadmnm": "검단탑병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "동구",
+    "sidonm": "울산",
+    "spcladmtycd": "A0",
+    "telno": "052-250-7000",
+    "yadmnm": "학교법인 울산공업학원 울산대학교병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "북구",
+    "sidonm": "울산",
+    "spcladmtycd": "A0",
+    "telno": "052-280-9000",
+    "yadmnm": "의료법인 송은의료재단 울산시티병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "A",
+    "sggunm": "남구",
+    "sidonm": "울산",
+    "spcladmtycd": "A0",
+    "telno": "052-259-5000",
+    "yadmnm": "의료법인혜명심의료재단 울산병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "B",
+    "sggunm": "계양구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-240-8000",
+    "yadmnm": "인천세종병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "A",
+    "sggunm": "중구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-270-8000",
+    "yadmnm": "인천기독병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "A",
+    "sggunm": "동구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-765-7070",
+    "yadmnm": "의료법인 성수의료재단 인천백병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "B",
+    "sggunm": "서구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-584-0114",
+    "yadmnm": "의료법인루가의료재단 나은병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "남동구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-1577-2299",
+    "yadmnm": "의료법인 길의료재단 길병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "B",
+    "sggunm": "부평구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-1544-9004",
+    "yadmnm": "가톨릭대학교인천성모병원"
+  },
+  {
+    "adtfrdd": 20200226,
+    "hosptytpcd": "B",
+    "sggunm": "목포시",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-280-7500",
+    "yadmnm": "목포기독병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "순천시",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-720-2000",
+    "yadmnm": "성가롤로병원"
+  },
+  {
+    "adtfrdd": 20200225,
+    "hosptytpcd": "A",
+    "sggunm": "전주시 덕진구",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-240-2000",
+    "yadmnm": "대자인병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "B",
+    "sggunm": "군산시",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-440-0300",
+    "yadmnm": "의료법인 오성의료재단 동군산병원"
+  },
+  {
+    "adtfrdd": 20200227,
+    "hosptytpcd": "B",
+    "sggunm": "제주시",
+    "sidonm": "제주",
+    "spcladmtycd": "A0",
+    "telno": "064-740-5000",
+    "yadmnm": "제주한라병원"
+  },
+  {
+    "adtfrdd": 20200313,
+    "hosptytpcd": "A",
+    "sggunm": "양천구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2693-5555",
+    "yadmnm": "홍익병원"
+  },
+  {
+    "adtfrdd": 20200330,
+    "hosptytpcd": "A",
+    "sggunm": "구로구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2067-1500",
+    "yadmnm": "구로성심병원"
+  },
+  {
+    "adtfrdd": 20200624,
+    "hosptytpcd": "A",
+    "sggunm": "세종특별자치시",
+    "sidonm": "세종",
+    "spcladmtycd": "A0",
+    "telno": "044-850-7700",
+    "yadmnm": "엔케이(NK)세종병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "B",
+    "sggunm": "구로구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2626-1114",
+    "yadmnm": "고려대학교의과대학부속구로병원"
+  },
+  {
+    "adtfrdd": 20200316,
+    "hosptytpcd": "B",
+    "sggunm": "종로구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2001-2001",
+    "yadmnm": "강북삼성병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "남구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-933-7114",
+    "yadmnm": "부산성모병원(재단법인 천주교부산교구유지재단)"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "남구",
+    "sidonm": "울산",
+    "spcladmtycd": "A0",
+    "telno": "052-226-1100",
+    "yadmnm": "의료법인 정안의료재단 중앙병원"
+  },
+  {
+    "adtfrdd": 20200229,
+    "hosptytpcd": "A",
+    "sggunm": "미추홀구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-888-7575",
+    "yadmnm": "현대유비스병원"
+  },
+  {
+    "adtfrdd": 20200229,
+    "hosptytpcd": "A",
+    "sggunm": "서구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-726-1000",
+    "yadmnm": "의료법인성세의료재단 뉴 성민병원"
+  },
+  {
+    "adtfrdd": 20200229,
+    "hosptytpcd": "A",
+    "sggunm": "북구",
+    "sidonm": "대구",
+    "spcladmtycd": "A0",
+    "telno": "053-320-2500",
+    "yadmnm": "대구가톨릭대학교 칠곡가톨릭병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "군포시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-389-3000",
+    "yadmnm": "효산의료재단 지샘병원"
+  },
+  {
+    "adtfrdd": 20200229,
+    "hosptytpcd": "A",
+    "sggunm": "부천시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "032-670-0001",
+    "yadmnm": "의료법인대인의료재단 다니엘종합병원"
+  },
+  {
+    "adtfrdd": 20200305,
+    "hosptytpcd": "B",
+    "sggunm": "안산시 단원구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-412-5653",
+    "yadmnm": "고려대학교의과대학부속안산병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "청주시 상당구",
+    "sidonm": "충북",
+    "spcladmtycd": "A0",
+    "telno": "043-221-5000",
+    "yadmnm": "의료법인 정산의료재단 효성병원"
+  },
+  {
+    "adtfrdd": 20200229,
+    "hosptytpcd": "A",
+    "sggunm": "청주시 흥덕구",
+    "sidonm": "충북",
+    "spcladmtycd": "A0",
+    "telno": "043-910-7575",
+    "yadmnm": "재단법인베스티안재단베스티안병원"
+  },
+  {
+    "adtfrdd": 20200229,
+    "hosptytpcd": "B",
+    "sggunm": "천안시 동남구",
+    "sidonm": "충남",
+    "spcladmtycd": "A0",
+    "telno": "041-1588-0063",
+    "yadmnm": "단국대학교의과대학부속병원"
+  },
+  {
+    "adtfrdd": 20200229,
+    "hosptytpcd": "B",
+    "sggunm": "목포시",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-270-5800",
+    "yadmnm": "목포한국병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "포항시 북구",
+    "sidonm": "경북",
+    "spcladmtycd": "A0",
+    "telno": "054-245-5338",
+    "yadmnm": "의료법인은성의료재단좋은선린병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "B",
+    "sggunm": "진주시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-750-8000",
+    "yadmnm": "경상국립대학교병원"
+  },
+  {
+    "adtfrdd": 20200229,
+    "hosptytpcd": "A",
+    "sggunm": "진주시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-759-7777",
+    "yadmnm": "한일병원"
+  },
+  {
+    "adtfrdd": 20200304,
+    "hosptytpcd": "A",
+    "sggunm": "창원시 성산구",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-262-8511",
+    "yadmnm": "CNA서울아동병원"
+  },
+  {
+    "adtfrdd": 20200302,
+    "hosptytpcd": "A",
+    "sggunm": "제주시",
+    "sidonm": "제주",
+    "spcladmtycd": "A0",
+    "telno": "064-750-9000",
+    "yadmnm": "한마음병원"
+  },
+  {
+    "adtfrdd": 20210329,
+    "hosptytpcd": "B",
+    "sggunm": "의정부시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-951-1000",
+    "yadmnm": "학교법인 을지학원 의정부을지대학교병원"
+  },
+  {
+    "adtfrdd": 20210201,
+    "hosptytpcd": "A",
+    "sggunm": "광산구",
+    "sidonm": "광주",
+    "spcladmtycd": "A0",
+    "telno": "062-975-3300",
+    "yadmnm": "하나아동병원"
+  },
+  {
+    "adtfrdd": 20201110,
+    "hosptytpcd": "A",
+    "sggunm": "천안시 서북구",
+    "sidonm": "충남",
+    "spcladmtycd": "A0",
+    "telno": "041-562-2021",
+    "yadmnm": "두정이진병원"
+  },
+  {
+    "adtfrdd": 20201216,
+    "hosptytpcd": "A",
+    "sggunm": "중구",
+    "sidonm": "대전",
+    "spcladmtycd": "A0",
+    "telno": "042-220-8114",
+    "yadmnm": "의료법인 영훈의료재단 대전선병원"
+  },
+  {
+    "adtfrdd": 20210105,
+    "hosptytpcd": "A",
+    "sggunm": "아산시",
+    "sidonm": "충남",
+    "spcladmtycd": "A0",
+    "telno": "041-533-3391",
+    "yadmnm": "꿈크는아이병원"
+  },
+  {
+    "adtfrdd": 20201214,
+    "hosptytpcd": "A",
+    "sggunm": "사천시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-852-8175",
+    "yadmnm": "사천서울아동병원"
+  },
+  {
+    "adtfrdd": 20201224,
+    "hosptytpcd": "A",
+    "sggunm": "고양시 덕양구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-930-3114",
+    "yadmnm": "의료법인자인의료재단자인메디병원"
+  },
+  {
+    "adtfrdd": 20210125,
+    "hosptytpcd": "A",
+    "sggunm": "거제시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-633-7599",
+    "yadmnm": "서울아동병원"
+  },
+  {
+    "adtfrdd": 20201118,
+    "hosptytpcd": "A",
+    "sggunm": "광명시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "-1833-7588",
+    "yadmnm": "아이원병원"
+  },
+  {
+    "adtfrdd": 20210118,
+    "hosptytpcd": "A",
+    "sggunm": "영도구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "-730-8300",
+    "yadmnm": "아이(i)서울병원"
+  },
+  {
+    "adtfrdd": 20210227,
+    "hosptytpcd": "A",
+    "sggunm": "남양주시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-563-9999",
+    "yadmnm": "아이맘어린이병원"
+  },
+  {
+    "adtfrdd": 20210303,
+    "hosptytpcd": "A",
+    "sggunm": "목포시",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-801-8001",
+    "yadmnm": "목포아동병원"
+  },
+  {
+    "adtfrdd": 20200923,
+    "hosptytpcd": "A",
+    "sggunm": "동구",
+    "sidonm": "광주",
+    "spcladmtycd": "A0",
+    "telno": "062-1899-0000",
+    "yadmnm": "전남대학교병원"
+  },
+  {
+    "adtfrdd": 20210101,
+    "hosptytpcd": "A",
+    "sggunm": "평택시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-652-2121",
+    "yadmnm": "의료법인 박애의료재단 박애병원"
+  },
+  {
+    "adtfrdd": 20201203,
+    "hosptytpcd": "A",
+    "sggunm": "화성시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-8060-5000",
+    "yadmnm": "센트럴아동병원"
+  },
+  {
+    "adtfrdd": 20201203,
+    "hosptytpcd": "A",
+    "sggunm": "남구",
+    "sidonm": "광주",
+    "spcladmtycd": "A0",
+    "telno": "062-600-2500",
+    "yadmnm": "미래아동병원"
+  },
+  {
+    "adtfrdd": 20201207,
+    "hosptytpcd": "B",
+    "sggunm": "성남시 분당구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-780-5000",
+    "yadmnm": "차의과학대학교분당차병원"
+  },
+  {
+    "adtfrdd": 20201203,
+    "hosptytpcd": "B",
+    "sggunm": "고흥군",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-835-6000",
+    "yadmnm": "의료법인영성의료재단 고흥종합병원"
+  },
+  {
+    "adtfrdd": 20201101,
+    "hosptytpcd": "A",
+    "sggunm": "동래구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-503-2111",
+    "yadmnm": "의료법인 광혜의료재단 광혜병원"
+  },
+  {
+    "adtfrdd": 20210416,
+    "hosptytpcd": "A",
+    "sggunm": "강서구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "-1522-7000",
+    "yadmnm": "이화여자대학교의과대학부속서울병원"
+  },
+  {
+    "adtfrdd": 20210310,
+    "hosptytpcd": "A",
+    "sggunm": "군산시",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-467-0001",
+    "yadmnm": "키움병원"
+  },
+  {
+    "adtfrdd": 20210206,
+    "hosptytpcd": "A",
+    "sggunm": "북구",
+    "sidonm": "광주",
+    "spcladmtycd": "A0",
+    "telno": "062-250-2500",
+    "yadmnm": "북구미래아동병원"
+  },
+  {
+    "adtfrdd": 20210325,
+    "hosptytpcd": "A",
+    "sggunm": "남구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "-612-7582",
+    "yadmnm": "부산아동병원"
+  },
+  {
+    "adtfrdd": 20210325,
+    "hosptytpcd": "A",
+    "sggunm": "김해시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-724-3119",
+    "yadmnm": "진영새싹병원"
+  },
+  {
+    "adtfrdd": 20201118,
+    "hosptytpcd": "B",
+    "sggunm": "연수구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-899-4000",
+    "yadmnm": "인천적십자병원"
+  },
+  {
+    "adtfrdd": 20201020,
+    "hosptytpcd": "A",
+    "sggunm": "동래구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-554-1233",
+    "yadmnm": "대동병원"
+  },
+  {
+    "adtfrdd": 20201014,
+    "hosptytpcd": "A",
+    "sggunm": "연제구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-507-3000",
+    "yadmnm": "부산광역시의료원"
+  },
+  {
+    "adtfrdd": 20210109,
+    "hosptytpcd": "A",
+    "sggunm": "오산시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-375-4197",
+    "yadmnm": "서울어린이병원"
+  },
+  {
+    "adtfrdd": 20210112,
+    "hosptytpcd": "A",
+    "sggunm": "나주시",
+    "sidonm": "전남",
+    "spcladmtycd": "A0",
+    "telno": "061-338-7700",
+    "yadmnm": "엔에이치미래아동병원"
+  },
+  {
+    "adtfrdd": 20210112,
+    "hosptytpcd": "A",
+    "sggunm": "서구",
+    "sidonm": "인천",
+    "spcladmtycd": "A0",
+    "telno": "032-590-1500",
+    "yadmnm": "청라연세어린이병원"
+  },
+  {
+    "adtfrdd": 20210115,
+    "hosptytpcd": "A",
+    "sggunm": "광산구",
+    "sidonm": "광주",
+    "spcladmtycd": "A0",
+    "telno": "062-605-2500",
+    "yadmnm": "광산수완미래아동병원"
+  },
+  {
+    "adtfrdd": 20210220,
+    "hosptytpcd": "A",
+    "sggunm": "김해시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-325-5775",
+    "yadmnm": "아이사랑병원"
+  },
+  {
+    "adtfrdd": 20201228,
+    "hosptytpcd": "B",
+    "sggunm": "평택시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "-1800-8800",
+    "yadmnm": "의료법인 양진의료재단 평택성모병원"
+  },
+  {
+    "adtfrdd": 20210113,
+    "hosptytpcd": "A",
+    "sggunm": "강서구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-717-0230",
+    "yadmnm": "명지아동병원"
+  },
+  {
+    "adtfrdd": 20210201,
+    "hosptytpcd": "A",
+    "sggunm": "거제시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-632-8225",
+    "yadmnm": "거제아동병원"
+  },
+  {
+    "adtfrdd": 20210401,
+    "hosptytpcd": "A",
+    "sggunm": "유성구",
+    "sidonm": "대전",
+    "spcladmtycd": "A0",
+    "telno": "042-829-0000",
+    "yadmnm": "코젤병원"
+  },
+  {
+    "adtfrdd": 20210129,
+    "hosptytpcd": "A",
+    "sggunm": "전주시 완산구",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-229-0114",
+    "yadmnm": "미르아동병원"
+  },
+  {
+    "adtfrdd": 20210201,
+    "hosptytpcd": "A",
+    "sggunm": "광산구",
+    "sidonm": "광주",
+    "spcladmtycd": "A0",
+    "telno": "062-467-3300",
+    "yadmnm": "광산하나아동병원"
+  },
+  {
+    "adtfrdd": 20200801,
+    "hosptytpcd": "A",
+    "sggunm": "부산진구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-607-0133",
+    "yadmnm": "의료법인 온그룹의료재단 온종합병원"
+  },
+  {
+    "adtfrdd": 20201116,
+    "hosptytpcd": "A",
+    "sggunm": "전주시 완산구",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-280-0800",
+    "yadmnm": "전주다솔아동병원"
+  },
+  {
+    "adtfrdd": 20210119,
+    "hosptytpcd": "A",
+    "sggunm": "해운대구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-714-3501",
+    "yadmnm": "해운대푸른바다어린이병원"
+  },
+  {
+    "adtfrdd": 20210222,
+    "hosptytpcd": "A",
+    "sggunm": "유성구",
+    "sidonm": "대전",
+    "spcladmtycd": "A0",
+    "telno": "042-520-0000",
+    "yadmnm": "대전코젤병원"
+  },
+  {
+    "adtfrdd": 20201215,
+    "hosptytpcd": "A",
+    "sggunm": "동구",
+    "sidonm": "대전",
+    "spcladmtycd": "A0",
+    "telno": "042-606-1000",
+    "yadmnm": "대전한국병원"
+  },
+  {
+    "adtfrdd": 20201030,
+    "hosptytpcd": "B",
+    "sggunm": "시흥시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-8041-3000",
+    "yadmnm": "의료법인 석경의료재단 센트럴병원"
+  },
+  {
+    "adtfrdd": 20210112,
+    "hosptytpcd": "A",
+    "sggunm": "창원시 마산회원구",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-299-8275",
+    "yadmnm": "양덕서울아동병원"
+  },
+  {
+    "adtfrdd": 20210203,
+    "hosptytpcd": "A",
+    "sggunm": "거제시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-687-8595",
+    "yadmnm": "대우아동병원"
+  },
+  {
+    "adtfrdd": 20201220,
+    "hosptytpcd": "A",
+    "sggunm": "강서구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-264-9500",
+    "yadmnm": "행복한어린이병원"
+  },
+  {
+    "adtfrdd": 20210503,
+    "hosptytpcd": "A",
+    "sggunm": "오산시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-373-7585",
+    "yadmnm": "웰봄병원"
+  },
+  {
+    "adtfrdd": 20210302,
+    "hosptytpcd": "B",
+    "sggunm": "중랑구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-2276-7000",
+    "yadmnm": "서울특별시서울의료원"
+  },
+  {
+    "adtfrdd": 20200408,
+    "hosptytpcd": "A",
+    "sggunm": "중랑구",
+    "sidonm": "서울",
+    "spcladmtycd": "A0",
+    "telno": "02-490-2000",
+    "yadmnm": "녹색병원"
+  },
+  {
+    "adtfrdd": 20201116,
+    "hosptytpcd": "A",
+    "sggunm": "동래구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-531-6000",
+    "yadmnm": "동래봉생병원"
+  },
+  {
+    "adtfrdd": 20210101,
+    "hosptytpcd": "A",
+    "sggunm": "영도구",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-412-6161",
+    "yadmnm": "의료법인 행도의료재단 해동병원"
+  },
+  {
+    "adtfrdd": 20200923,
+    "hosptytpcd": "B",
+    "sggunm": "아산시",
+    "sidonm": "충남",
+    "spcladmtycd": "A0",
+    "telno": "041-546-3636",
+    "yadmnm": "현대병원"
+  },
+  {
+    "adtfrdd": 20201214,
+    "hosptytpcd": "A",
+    "sggunm": "이천시",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-630-4200",
+    "yadmnm": "경기도의료원 이천병원"
+  },
+  {
+    "adtfrdd": 20210315,
+    "hosptytpcd": "A",
+    "sggunm": "기장군",
+    "sidonm": "부산",
+    "spcladmtycd": "A0",
+    "telno": "051-727-7812",
+    "yadmnm": "정관우리아동병원"
+  },
+  {
+    "adtfrdd": 20201112,
+    "hosptytpcd": "B",
+    "sggunm": "전주시 완산구",
+    "sidonm": "전북",
+    "spcladmtycd": "A0",
+    "telno": "063-230-8114",
+    "yadmnm": "재단법인예수병원유지재단예수병원"
+  },
+  {
+    "adtfrdd": 20210407,
+    "hosptytpcd": "A",
+    "sggunm": "성남시 분당구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "031-787-2114",
+    "yadmnm": "분당서울대학교병원"
+  },
+  {
+    "adtfrdd": 20201208,
+    "hosptytpcd": "A",
+    "sggunm": "유성구",
+    "sidonm": "대전",
+    "spcladmtycd": "A0",
+    "telno": "042-1522-6705",
+    "yadmnm": "봉키병원"
+  },
+  {
+    "adtfrdd": 20210402,
+    "hosptytpcd": "A",
+    "sggunm": "서구",
+    "sidonm": "대전",
+    "spcladmtycd": "A0",
+    "telno": "042-485-2235",
+    "yadmnm": "조이병원"
+  },
+  {
+    "adtfrdd": 20201102,
+    "hosptytpcd": "A",
+    "sggunm": "거제시",
+    "sidonm": "경남",
+    "spcladmtycd": "A0",
+    "telno": "055-680-8114",
+    "yadmnm": "의료법인 대우의료재단대우병원"
+  },
+  {
+    "adtfrdd": 20201224,
+    "hosptytpcd": "A",
+    "sggunm": "고양시 일산동구",
+    "sidonm": "경기",
+    "spcladmtycd": "A0",
+    "telno": "-1577-0013",
+    "yadmnm": "국민건강보험공단일산병원"
+  }
+]

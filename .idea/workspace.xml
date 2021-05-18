@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc6adf0-c0a4-4944-b04d-e0cf15d098b9" name="Default Changelist" comment="" />
+    <list default="true" id="5cc6adf0-c0a4-4944-b04d-e0cf15d098b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rA9fLQNoKJQSI80piRDippqkRu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,9 +32,18 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="SSH_CONFIG" />
+    <option name="myConnectionId" value="ubuntu@52.78.126.183:22 key" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5cc6adf0-c0a4-4944-b04d-e0cf15d098b9" name="Default Changelist" comment="" />
@@ -36,11 +55,25 @@
       <workItem from="1619635321957" duration="1295000" />
       <workItem from="1619667586356" duration="2116000" />
       <workItem from="1619691082789" duration="28000" />
+      <workItem from="1620788441506" duration="7206000" />
+      <workItem from="1620916791241" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="145" key="#Deployment" timestamp="1619691109556">
@@ -55,6 +88,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="762" y="346" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619691108429" />
+    <state x="713" y="144" key="SettingsEditor" timestamp="1620797644154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="144" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1620797644154" />
+    <state x="917" y="241" key="Vcs.Push.Dialog.v2" timestamp="1620797682668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="917" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1620797682668" />
     <state x="699" y="384" key="WebDeployment.AddServerDialog.v.1" timestamp="1618408370131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -63,5 +104,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="728" y="217" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1619691101621" />
+    <state x="988" y="256" key="search.everywhere.popup" timestamp="1620790946930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="988" y="256" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620790946930" />
   </component>
 </project>
