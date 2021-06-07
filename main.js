@@ -14,7 +14,7 @@ const db_info = {
     port: '3306',
     user: 'root',
     password: 'ljsql934',
-    database: 'gamespring',
+    database: 'ows',
   };
   
   const dbConnect = mysql.createConnection(db_info);
