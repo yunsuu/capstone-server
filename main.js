@@ -4,11 +4,8 @@ const convert = require('xml-js');
 const bodyParser = require('body-parser');
 const geolib = require('geolib');
 const fs = require('fs');
-<<<<<<< HEAD
 const seedRand = require('random-seed');
 const dialogflow = require('@google-cloud/dialogflow');
-=======
->>>>>>> 48a82edddfb22cdcef31eb9277f4341c6f278563
 const app = express()
 const port = 3000
 
@@ -19,7 +16,6 @@ const port = 3000
 
 // caps는 이거쓰자
 // http://apis.data.go.kr/B552657/ErmctInfoInqireService/getEgytListInfoInqire?serviceKey=WzaM%2FMuPotmXrd0Or5PUVwI26EkhhorcTdzDdC%2Bm1vtS7aLHUlvcgyyetX50aUP9fL9mYwEJ2MuXBZ1ScHqq9A%3D%3D&
-<<<<<<< HEAD
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
@@ -128,52 +124,6 @@ app.get('/caps/my-page', (req, res) => {
     if (radius === undefined) radius = '5000'
     if ( !(scenario === '1' || scenario === '2'  || scenario === '3') ) scenario = '1'
 
-=======
-
-app.use(bodyParser.json());
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-
-const getRandomInt = (min, max) => { //min ~ max 사이의 임의의 정수 반환
-    return Math.floor(Math.random() * (max - min)) + min;
-}
-
-
-app.get('/', (req, res) => {
-    // let { userLng, userLat, radius, dgsbjtCd } = req.query;
-    // console.log(typeof userLng, userLat, radius, dgsbjtCd)
-    // console.log(userLat === undefined)
-    // console.log(geolib.isPointWithinRadius(
-    //     { latitude: 51.525, longitude: 7.4575 },
-    //     { latitude: 121.5175, longitude: 7.4678 },
-    //     '5000'
-    // ))
-    res.send("hello")
-})
-
-app.get('/ows/covid-hospital', (req, res) => {
-    res.send({
-            "adtfrdd": 20200228,
-            "hosptytpcd": "B",
-            "sggunm": "강남구",
-            "sidonm": "서울",
-            "spcladmtycd": "A0",
-            "telno": "02-2019-3114",
-            "yadmnm": "연세대학교의과대학 강남세브란스병원"
-        })
-})
-
-
-app.get('/caps/hospital', (req, res) => {
-    //3번 데이터 씀
-    // 파라미터로 잘 돌아가도록 하기 ,git book 쓰기
-    let { user_lng, user_lat, radius, dgsbjtCd } = req.query;
-
-    if (user_lat === undefined) user_lat = '37.492445'
-    if (user_lng === undefined) user_lng = '127.063120'
-    if (radius === undefined) radius = '5000'
-
->>>>>>> 48a82edddfb22cdcef31eb9277f4341c6f278563
     // const user_lat = '37.492445' //위도
     // const user_lng = '127.063120' //경도
     // const radius = 5000
@@ -182,11 +132,7 @@ app.get('/caps/hospital', (req, res) => {
     const apiKey = 'WzaM%2FMuPotmXrd0Or5PUVwI26EkhhorcTdzDdC%2Bm1vtS7aLHUlvcgyyetX50aUP9fL9mYwEJ2MuXBZ1ScHqq9A%3D%3D'
     const defualtUrl = `http://apis.data.go.kr/B552657/ErmctInfoInqireService/getEgytListInfoInqire`
     const url = `${defualtUrl}?serviceKey=${apiKey}&pageNo=1&numOfRows=500`
-<<<<<<< HEAD
     // console.log(url)
-=======
-    console.log(url)
->>>>>>> 48a82edddfb22cdcef31eb9277f4341c6f278563
     request.get(url, (err, response, body)=> {
         if (err) {console.log(`err => ${err}`)}
         if (response.statusCode == 200) {
@@ -204,7 +150,6 @@ app.get('/caps/hospital', (req, res) => {
                     radius
                 );
                 if(isInRadius){
-<<<<<<< HEAD
                     const now = new Date();	// 현재 날짜 및 시간
                     const hours = now.getHours();	// 시간
                     const hospitalName = apiJson[i].dutyName._text
@@ -237,20 +182,10 @@ app.get('/caps/hospital', (req, res) => {
                     })
                 }
             });
-=======
-                    result.push(apiJson[i])
-                }
-            }
-            res.send({
-                performance: true,
-                result:result
-            })
->>>>>>> 48a82edddfb22cdcef31eb9277f4341c6f278563
         }
     })
 })
 
-<<<<<<< HEAD
 app.get('/caps/hospital', (req, res) => {
     //3번 데이터 씀
     // 파라미터로 잘 돌아가도록 하기 ,git book 쓰기
@@ -392,36 +327,13 @@ app.get('/caps/write-survey', (req, res) => {
 app.get('/caps/login', (req, res) => {
     let { id, pwd } = req.query;
     // console.log({ id, pwd })
-=======
-app.get('/caps/chatting', (req, res) => {
-    // const text = req.body.text;
-    let { text } = req.query;
-    console.log(text)
-    // console.log(req.body, req.body.text)
-    const random = getRandomInt(0, 4) //0~3까지 나옴
-    const chatArr = ["피자먹고 싶다.", "치킨먹고 싶다.", "안녕하세요", "롤하고 싶다."]
-    res.json({
-        resText : chatArr[random],
-        reqText : text,
-    })
-});
-
-
-app.get('/caps/login', (req, res) => {
-    let { id, pwd } = req.query;
-    console.log({ id, pwd })
->>>>>>> 48a82edddfb22cdcef31eb9277f4341c6f278563
     fs.readFile('user.json', 'utf8', function readFileCallback(err, data){
         if (err){
             console.log(err);
         } else {
             obj = JSON.parse(data); //now it an object            console.log(json)
             for(let i = 0; i<obj.length; i++){
-<<<<<<< HEAD
                 // console.log(obj[i])
-=======
-                console.log(obj[i])
->>>>>>> 48a82edddfb22cdcef31eb9277f4341c6f278563
                 if (id === obj[i].id && pwd === obj[i].pwd){
                     return res.json({
                         performance:true,
@@ -436,22 +348,14 @@ app.get('/caps/login', (req, res) => {
 
 app.get('/caps/sign-up', (req, res) => {
     let {name, id, pwd, address, gender, birth } = req.query;
-<<<<<<< HEAD
     // console.log({name, id, pwd, address, gender, birth })
-=======
-    console.log({name, id, pwd, address, gender, birth })
->>>>>>> 48a82edddfb22cdcef31eb9277f4341c6f278563
     fs.readFile('user.json', 'utf8', function readFileCallback(err, data){
         if (err){
             console.log(err);
         } else {
             obj = JSON.parse(data);
             for(let i = 0; i<obj.length; i++){
-<<<<<<< HEAD
                 // console.log(obj[i])
-=======
-                console.log(obj[i])
->>>>>>> 48a82edddfb22cdcef31eb9277f4341c6f278563
                 if (id === obj[i].id){
                     return res.json({
                         performance:false,
@@ -471,12 +375,7 @@ app.get('/caps/sign-up', (req, res) => {
         }});
 })
 
-<<<<<<< HEAD
 //오픈소스 라우터
-=======
-//예시 url
-//http://52.78.126.183:3000/ows/survey?as1=4&as2=1&as3=1&as4=2&as5=3&as6=1&as7=2&as8=1&as9=1&as10=1
->>>>>>> 48a82edddfb22cdcef31eb9277f4341c6f278563
 app.get('/ows/survey', (req, res) => {
     let { as1, as2, as3, as4, as5, as6, as7, as8, as9, as10 } = req.query;
     const as1Arr = [10,5,0,0,8,10]
@@ -530,11 +429,7 @@ app.get('/ows/hospital', (req, res) => {
                 xmlToJson = JSON.parse(xmlToJson)
                 let resultJson = xmlToJson.response.body.items.item
                 // console.log(resultJson)
-<<<<<<< HEAD
                 // console.log(url)
-=======
-                console.log(url)
->>>>>>> 48a82edddfb22cdcef31eb9277f4341c6f278563
                 res.send({
                     performance: true,
                     result:resultJson
@@ -544,7 +439,6 @@ app.get('/ows/hospital', (req, res) => {
     })
 })
 
-<<<<<<< HEAD
 app.get('/ows/covid-hospital', (req, res) => {
     res.send([{
         "adtfrdd": 20200304,
@@ -572,8 +466,6 @@ app.get('/ows/covid-hospital', (req, res) => {
         }])
 })
 
-=======
->>>>>>> 48a82edddfb22cdcef31eb9277f4341c6f278563
 
 app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`)
